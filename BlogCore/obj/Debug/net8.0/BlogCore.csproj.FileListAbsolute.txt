@@ -240,3 +240,9 @@
 /Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.AccesoDatos.dll
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.Models.dll
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.Utilidades.dll
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.AccesoDatos.pdb
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.Models.pdb
+/Users/tomasdziurdzia/Desktop/Cursos/NET/NETCORE-MVC/BlogCore/BlogCore/bin/Debug/net8.0/BlogCore.Utilidades.pdb
